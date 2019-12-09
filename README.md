@@ -1,2 +1,2 @@
 # Computer Graphics Project__Qiu Junyi
-Fudan CS Computer Graphics Project
+Computer Graphics Project 1\2\3
